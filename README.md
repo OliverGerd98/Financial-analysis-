@@ -1,1 +1,1 @@
-DCF, Comparables, HF-Trading, BTC and Pokemon 
+DCF, Comparables, HF-Trading, BTC, and Pokémon
