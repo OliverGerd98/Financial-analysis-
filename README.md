@@ -2,7 +2,7 @@ WIP <-
 
 
 
-Vola6 High-Frequency Trading 1:60 <- use Grid Tools
+Vola6 High-Frequency Trading 1:60 <- Grid 
 
 
 
