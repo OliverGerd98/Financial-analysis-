@@ -1,7 +1,5 @@
 
 
-BITGET SINGLE LIMIT ORDER (PYTHON/ANACONDA) GO TO CODE ->
-
 import hmac
 import base64
 import json
