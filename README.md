@@ -1,4 +1,13 @@
+EBIT-Margin 2024 
 
+Mastercard 57,7%
+Visa 67,0%
+Paypal 18,1% 
+
+
+
+
+Bitget Code -> 
 
 import hmac
 import base64
