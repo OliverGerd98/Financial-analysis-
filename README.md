@@ -1,10 +1,6 @@
 --------------------------------
 
-EBIT-Margin 2024 
-
-Mastercard 57,7%
-Visa 67,0%
-Paypal 18,1% 
+DCFs (V11) and DCF-Comps for Payment Provider online  
 
 ---------------------------------
 
