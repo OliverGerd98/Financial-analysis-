@@ -18,7 +18,7 @@ Das ist besonders relevant in Phasen, in denen viele „alte“ Hochzinskredite 
 
 📌 2. Sinkende Zinsen ≠ sofort weniger NPLs
 Auch wenn der Leitzins sinkt, dauert es meist 12–24 Monate, bis dies in den realen Kreditmärkten ankommt (Refinanzierung, Haushaltsentlastung etc.).
-→ Die derzeit aktiven NPL-Transaktionen spiegeln noch die Ausfälle aus Hochzinsphasen (2023–Q1 2024) wider. Das NPL-Angebot bleibt also kurzfristig hoch.
+→ Die derzeit aktiven NPL-Transaktionen spiegeln noch die Ausfälle aus Hochzinsphasen wider. Das NPL-Angebot bleibt also kurzfristig hoch.
 
 -----------------------------------
 
