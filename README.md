@@ -6,6 +6,10 @@ DCFs (V11) and DCF-Comps for Payment Provider online
 
 ----------------------------------
 
+01. Juni 2025
+
+NPLs -> Intrum (positives EPS soon?), Hoist Finance, Banca Ifis 
+
 📌 1. Refinanzierungskosten sinken → Margen steigen
 Die meisten NPL-Investoren kaufen notleidende Kredite mit hohem Abschlag und finanzieren sich selbst fremdkapitalbasiert (z. B. über Anleihen oder Kreditlinien).
 → Sinkende Zinsen reduzieren ihre Finanzierungskosten und erhöhen somit die Marge pro erworbenem Portfolio.
@@ -13,8 +17,14 @@ Das ist besonders relevant in Phasen, in denen viele „alte“ Hochzinskredite 
 
 📌 2. Sinkende Zinsen ≠ sofort weniger NPLs
 Auch wenn der Leitzins sinkt, dauert es meist 12–24 Monate, bis dies in den realen Kreditmärkten ankommt (Refinanzierung, Haushaltsentlastung etc.).
-→ Die derzeit aktiven NPL-Transaktionen spiegeln noch die Ausfälle aus Hochzinsphasen (2023–Q1 2024) wider. Das NPL-Angebot bleibt also kurzfristig hoch.
+→ Die derzeit aktiven NPL-Transaktionen spiegeln noch die Ausfälle aus Hochzinsphasen wider. Das NPL-Angebot bleibt also kurzfristig hoch.📌 1. Refinanzierungskosten sinken → Margen steigen
+Die meisten NPL-Investoren kaufen notleidende Kredite mit hohem Abschlag und finanzieren sich selbst fremdkapitalbasiert (z. B. über Anleihen oder Kreditlinien).
+→ Sinkende Zinsen reduzieren ihre Finanzierungskosten und erhöhen somit die Marge pro erworbenem Portfolio.
+Das ist besonders relevant in Phasen, in denen viele „alte“ Hochzinskredite refinanziert werden müssen.
 
+📌 2. Sinkende Zinsen ≠ sofort weniger NPLs
+Auch wenn der Leitzins sinkt, dauert es meist 12–24 Monate, bis dies in den realen Kreditmärkten ankommt (Refinanzierung, Haushaltsentlastung etc.).
+→ Die derzeit aktiven NPL-Transaktionen spiegeln noch die Ausfälle aus Hochzinsphasen (2023–Q1 2024) wider. Das NPL-Angebot bleibt also kurzfristig hoch.
 -----------------------------------
 
 
