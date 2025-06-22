@@ -1,3 +1,17 @@
+---------------------------------
+
+Domains for Sale 🦄
+
+
+www.royalseeds.de
+
+www.indica24.com
+
+www.fachkraftbörse.de
+
+www.meisterbörse.de
+
+
 --------------------------------
 
 DCFs (V11) and DCF-Comps for Payment Provider online  
@@ -5,10 +19,6 @@ DCFs (V11) and DCF-Comps for Payment Provider online
 ---------------------------------
 
 
-
-
-
-----------------------------------------
 Bitget Code -> 
 
 import hmac
