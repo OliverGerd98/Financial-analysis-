@@ -11,10 +11,6 @@ www.IntelligenceOps.de
 
 www.NarrativeOps.de
 
-www.RoyalSeeds.de
-
-www.Indica24.com
-
 www.FachkraftBörse.de
 
 www.MeisterBörse.de
