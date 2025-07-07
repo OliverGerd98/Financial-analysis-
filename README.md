@@ -5,7 +5,7 @@ Domains for Sale 🦄 🚀
 
 www.FactorMat.de
 
-ForderungsAnkauf24.de
+www.ForderungsAnkauf24.de
 
 www.IntelligenceDD.de
 
