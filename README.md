@@ -15,7 +15,4 @@ DM: o.schueuermann@gmail.com
 
 --------------------------------
 
-DCFs (V11) and DCF-Comps for Payment Provider online  
-
----------------------------------
 
