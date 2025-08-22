@@ -7,12 +7,6 @@ www.FactorMat.de
 
 www.ForderungsAnkauf24.de
 
-www.IntelligenceDD.de
-
-www.IntelligenceOps.de
-
-www.NarrativeOps.de
-
 www.FachkraftBörse.de
 
 www.MeisterBörse.de
