@@ -6,12 +6,13 @@ The focus is on practical application, not theory — each model reflects real-w
 
 
 - DCF (NVIDIA)
-  Download Excel model: https://github.com/OliverGerd98/Financial-analysis-/blob/main/V11%20DCF%20-%3E%20NVIDIA%20(2025-06-06)%20V1.xlsx 
+  Intrinsic valuation model based on forward-looking assumptions  
+  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/V11%20DCF%20-%3E%20NVIDIA%20(2025-06-06)%20V1.xlsx)
 
 - Equity Research NVIDIA (based on DCF)  
-  Download analysis: https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf
+  Investment thesis derived from valuation outputs  
+  → [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
 
-- LBO Model
-  Download Excel model: https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Vendor).xlsx
-
-LinkedIn: https://www.linkedin.com/in/oliver-gerd-schüürmann-42950a219/ 
+- LBO Model (Vendor Loan Structure)  
+  Leveraged buyout model including subordinated vendor financing  
+  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Vendor).xlsx)
