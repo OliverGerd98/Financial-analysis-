@@ -13,6 +13,6 @@ The focus is on practical application, not theory — each model reflects real-w
   Investment thesis derived from valuation outputs  
   → [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
 
-- LBO Model (Vendor Loan Structure)  
-  Leveraged buyout model including subordinated vendor financing  
-  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Vendor).xlsx)
+- LBO Exit Model (5Y)
+  Exit scenario analysis including return profile (IRR / MoM)  
+  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20Exit.xlsx)
