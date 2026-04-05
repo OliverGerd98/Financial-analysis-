@@ -6,13 +6,13 @@ The focus is on practical application, not theory — each model reflects real-w
 
 ## 🚀 Downloads
 
-- **DCF (NVIDIA)**  
-  Download Excel model: [DCF_NVIDIA.xlsx](valuation-models/DCF_NVIDIA.xlsx)
+- DCF (NVIDIA)
+  Download Excel model: V11 DCF -> NVIDIA (2025-06-06) V1.xlsx V11 DCF -> NVIDIA (2025-06-06) V1.xlsx
 
-- **Equity Research NVIDIA (based on DCF)**  
+- Equity Research NVIDIA (based on DCF)  
   Download analysis: [Equity_Research_NVIDIA.pdf](equity-research/Equity_Research_NVIDIA.pdf)
 
-- **LBO Model**  
+- LBO Model
   Download Excel model: [LBO_Model.xlsx](lbo-models/LBO_Model.xlsx)
 
 LinkedIn: https://www.linkedin.com/in/oliver-gerd-schüürmann-42950a219/ 
