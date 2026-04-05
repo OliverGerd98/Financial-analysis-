@@ -4,3 +4,4 @@ This repository contains a collection of financial models, valuation frameworks,
 
 The focus is on practical application, not theory — each model reflects real-world deal logic, structuring considerations, and valuation methodologies.
 
+LinkedIn: https://www.linkedin.com/in/oliver-gerd-schüürmann-42950a219/ 
