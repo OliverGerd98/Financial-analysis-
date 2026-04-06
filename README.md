@@ -13,5 +13,5 @@ The focus is on practical application, not theory — each model reflects real-w
   → [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
 
 - LBO Exit Model (5Y)
-  Exit scenario analysis including return profile (IRR / MoM)  
+  Exit scenario analysis including return profile (IRR / MOIC)  
   → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20Exit.xlsx)
