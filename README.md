@@ -15,3 +15,6 @@ The focus is on practical application, not theory — each model reflects real-w
 - LBO Exit Model (5Y)
   Exit scenario analysis including return profile (IRR / MOIC)  
   → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20Exit.xlsx)
+
+
+<img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/24d0a8d9-70e0-4d69-b651-0a83a7137baf" />
