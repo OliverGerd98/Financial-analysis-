@@ -1,4 +1,4 @@
-📊 Financial Modeling & Valuation
+📊 Financial Modeling & Valuation 
 
 This repository contains a collection of financial models, valuation frameworks, and market analyses developed in the context of M&A, Private Equity, and public market investing.
 
