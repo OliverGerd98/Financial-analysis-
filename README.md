@@ -1,20 +1,23 @@
-📊 Financial Modeling & Valuation 
+## 📊 Financial Modeling & Valuation
 
 This repository contains a collection of financial models, valuation frameworks, and market analyses developed in the context of M&A, Private Equity, and public market investing.
 
-The focus is on practical application, not theory — each model reflects real-world deal logic, structuring considerations, and valuation methodologies.
+The focus is on practical application rather than theory. Each model reflects real-world deal logic, structuring considerations, and valuation methodologies.
 
-- DCF (NVIDIA)  
-  Intrinsic valuation model based on forward looking assumptions  
-  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/V11%20DCF%20-%3E%20NVIDIA%20(2025-06-06)%20V1.xlsx)
+### DCF (NVIDIA)
+Intrinsic valuation model based on forward-looking assumptions.
 
-- Equity Research NVIDIA (based on DCF)  
-  Investment thesis derived from valuation outputs  
-  → [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
+➡️ [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/V11%20DCF%20-%3E%20NVIDIA%20(2025-06-06)%20V1.xlsx)
 
-- Micro-Cap Roll-Up LBO Model (5Y)
-  Leveraged Buyout framework for a Buy-and-Build strategy financed via an Angel Syndicate
-  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Angel%20Syndicate).xlsx)
+### Equity Research NVIDIA
+Investment thesis derived from valuation outputs and valuation assumptions.
+
+➡️ [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
+
+### Micro-Cap Roll-Up LBO Model (5Y)
+Leveraged Buyout framework for a Buy-and-Build strategy financed through an Angel Syndicate.
+
+➡️ [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Angel%20Syndicate).xlsx)
 
 
 <img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/24d0a8d9-70e0-4d69-b651-0a83a7137baf" />
