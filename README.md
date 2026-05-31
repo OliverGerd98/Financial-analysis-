@@ -5,16 +5,16 @@ This repository contains a collection of financial models, valuation frameworks,
 The focus is on practical application, not theory — each model reflects real-world deal logic, structuring considerations, and valuation methodologies.
 
 - DCF (NVIDIA)  
-  Intrinsic valuation model based on forward-looking assumptions  
+  Intrinsic valuation model based on forward looking assumptions  
   → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/V11%20DCF%20-%3E%20NVIDIA%20(2025-06-06)%20V1.xlsx)
 
 - Equity Research NVIDIA (based on DCF)  
   Investment thesis derived from valuation outputs  
   → [Download PDF](https://github.com/OliverGerd98/Financial-analysis-/blob/main/Equity%20Research%20NVIDIA%20(2025-06-06).pdf)
 
-- LBO Exit Model (5Y)
-  Exit scenario analysis including return profile (IRR / MOIC)  
-  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20Exit.xlsx)
+- Micro-Cap Roll-Up LBO Model (5Y)
+  Leveraged Buyout framework for a Buy-and-Build strategy financed via an Angel Syndicate
+  → [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Angel%20Syndicate).xlsx)
 
 
 <img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/24d0a8d9-70e0-4d69-b651-0a83a7137baf" />
