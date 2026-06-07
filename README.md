@@ -21,3 +21,6 @@ Leveraged Buyout framework for a Buy-and-Build strategy financed through an Ange
 
 
 <img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/24d0a8d9-70e0-4d69-b651-0a83a7137baf" />
+
+
+<img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/9823b02d-866f-429c-b4ca-0c7dbad10aef" />
