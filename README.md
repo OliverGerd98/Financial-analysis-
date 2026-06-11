@@ -20,7 +20,8 @@ Leveraged Buyout framework for a Buy-and-Build strategy financed through an Ange
 ➡️ [Download Excel](https://github.com/OliverGerd98/Financial-analysis-/blob/main/LBO%205Y%20(Angel%20Syndicate).xlsx)
 
 
-<img width="1416" height="1498" alt="png" src="https://github.com/user-attachments/assets/a1f0a1a7-2e81-44fb-9bc8-40a091273310" />
+<img width="1416" height="1498" alt="Unbenannt" src="https://github.com/user-attachments/assets/22d984e5-f98d-4f55-b430-4248a112ad3b" />
+
 
 
 
