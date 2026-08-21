@@ -3,6 +3,7 @@
 
 YouTube Live Modelling: Micro-Cap Business Succession via LBO with 0% Equity – Financed Through the LfA Universal Loan https://youtu.be/yyUM54-HdfQ?si=ZYkpvKgi9aHGgyku 
 
+-------- 
 
 This repository contains a collection of financial models, valuation frameworks, and market analyses developed in the context of M&A, Private Equity, and public market investing.
 
